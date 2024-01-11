@@ -1,0 +1,14 @@
+********************************  Sourav's Restaurant  *********************************
+
+1. Product Name = Product1
+   Price   = 10
+   Quantity   = 2
+   billed: 10 x 2 = Rs. 20.0
+2. Product Name = Product2
+   Price   = 15
+   Quantity   = 3
+   billed: 15 x 3 = Rs. 45.0
+
+
+!!! Your bill total is only Rs. 65.0. Thanks for shopping with us !!!
+
